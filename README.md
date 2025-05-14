@@ -1,7 +1,7 @@
-# ENTER YOUR NAME: DEVA DHARSHINI
-# ENTER YOUR REGISTER NO.212223240026
-# EX. NO.5
-# DATE:14-05-25
+## ENTER YOUR NAME: DEVA DHARSHINI
+## ENTER YOUR REGISTER NO.212223240026
+## EX. NO.5
+## DATE:14-05-25
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
